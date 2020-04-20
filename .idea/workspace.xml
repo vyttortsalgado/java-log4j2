@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="763151ca-3387-444c-8e94-0bdd0ca8b70f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1an2mM3xdEKcPdP3we8EUbppxAO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32743362" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../java-log4j2" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Slf4Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Slf4Application" />
+      <module name="java-log4j2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="java-log4j2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="java-log4j2" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Slf4Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="763151ca-3387-444c-8e94-0bdd0ca8b70f" name="Default Changelist" comment="" />
+      <created>1587357195199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587357195199</updated>
+      <workItem from="1587357199341" duration="4445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3120" y="198" width="1029" height="684" key="#Project_Structure" timestamp="1587360585856">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3120" y="198" width="1029" height="684" key="#Project_Structure/2560.0.1920.1080/0.0.2560.1056@2560.0.1920.1080" timestamp="1587360585856" />
+    <state x="3259" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1587357488502">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3259" y="240" key="#com.intellij.ide.util.MemberChooser/2560.0.1920.1080/0.0.2560.1056@2560.0.1920.1080" timestamp="1587357488502" />
+    <state width="1354" height="258" key="GridCell.Tab.0.bottom" timestamp="1587361944704">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="258" key="GridCell.Tab.0.bottom/2560.0.1920.1080/0.0.2560.1056@2560.0.1920.1080" timestamp="1587361944704" />
+    <state width="1354" height="258" key="GridCell.Tab.0.center" timestamp="1587361944704">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="258" key="GridCell.Tab.0.center/2560.0.1920.1080/0.0.2560.1056@2560.0.1920.1080" timestamp="1587361944704" />
+    <state width="1354" height="258" key="GridCell.Tab.0.left" timestamp="1587361944703">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="258" key="GridCell.Tab.0.left/2560.0.1920.1080/0.0.2560.1056@2560.0.1920.1080" timestamp="1587361944703" />
+    <state width="1354" height="258" key="GridCell.Tab.0.right" timestamp="1587361944704">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="258" key="GridCell.Tab.0.right/2560.0.1920.1080/0.0.2560.1056@2560.0.1920.1080" timestamp="1587361944704" />
+    <state width="1354" height="319" key="GridCell.Tab.1.bottom" timestamp="1587361944696">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.1.bottom/2560.0.1920.1080/0.0.2560.1056@2560.0.1920.1080" timestamp="1587361944696" />
+    <state width="1354" height="319" key="GridCell.Tab.1.center" timestamp="1587361944696">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.1.center/2560.0.1920.1080/0.0.2560.1056@2560.0.1920.1080" timestamp="1587361944696" />
+    <state width="1354" height="319" key="GridCell.Tab.1.left" timestamp="1587361944696">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.1.left/2560.0.1920.1080/0.0.2560.1056@2560.0.1920.1080" timestamp="1587361944696" />
+    <state width="1354" height="319" key="GridCell.Tab.1.right" timestamp="1587361944696">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.1.right/2560.0.1920.1080/0.0.2560.1056@2560.0.1920.1080" timestamp="1587361944696" />
+    <state x="3021" y="171" key="SettingsEditor" timestamp="1587357290042">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3021" y="171" key="SettingsEditor/2560.0.1920.1080/0.0.2560.1056@2560.0.1920.1080" timestamp="1587357290042" />
+    <state x="3206" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1587357212138">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3206" y="363" key="com.intellij.ide.util.TipDialog/2560.0.1920.1080/0.0.2560.1056@2560.0.1920.1080" timestamp="1587357212138" />
+  </component>
+</project>
